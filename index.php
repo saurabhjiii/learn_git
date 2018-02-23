@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 
-<body class="new_classs">
+<body class="new_classss">
 
 </body>
 </html>
