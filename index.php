@@ -3,7 +3,8 @@
 <head>
 	<title></title>
 </head>
-<body class="new_class">
+
+<body class="new_classs">
 
 </body>
 </html>
