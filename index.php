@@ -3,7 +3,7 @@
 <head>
 	<title></title>
 </head>
-<body class="indexPage">
+<body class="xxxxxxxxxx">
 
 </body>
 </html>
