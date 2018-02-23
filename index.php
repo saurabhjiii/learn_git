@@ -3,7 +3,7 @@
 <head>
 	<title></title>
 </head>
-<body class="xxxxxxxxxx">
+<body class="new_class">
 
 </body>
 </html>
